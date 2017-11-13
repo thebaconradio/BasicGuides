@@ -1,4 +1,4 @@
-# PlayerJoin
+# BasicGuides
 
 This plugin is used for my video tutorial
 
