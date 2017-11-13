@@ -10,7 +10,7 @@ I'll shoutout those who will donate. Thanks in advance :D
 
 # Watch This Tutorials
 
-# v1 - Sending Message
+# v1 - Player Join Event & Sending Message
 * Part 1 -> https://www.youtube.com/watch?v=sXzm6qhvFKk&feature=youtu.be
 * Part 2 -> https://www.youtube.com/watch?v=utCAuEMfx_4&feature=youtu.be
 
