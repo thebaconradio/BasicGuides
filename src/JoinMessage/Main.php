@@ -1,6 +1,6 @@
 <?php
 
-namespace JoinMessage;
+namespace PlayerJoin;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
