@@ -1,4 +1,4 @@
-# JoinMessage
+# PlayerJoin
 
 This plugin is used for my video tutorial
 
