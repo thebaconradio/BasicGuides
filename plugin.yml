@@ -1,5 +1,5 @@
-name: JoinMessage
-main: JoinMessage\Main
+name: PlayerJoin
+main: PlayerJoin\Main
 api: [3.0.0-ALPHA8]
 version: 1.0
 author: FreakingDev
