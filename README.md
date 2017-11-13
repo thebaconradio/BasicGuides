@@ -8,7 +8,7 @@ If you want me to make more videos. Please support me
 
 I'll shoutout those who will donate. Thanks in advance :D
 
-# Watch the Tutorial
+# Watch This Tutorials
 
 # v1 - Sending Message
 * Part 1 -> https://www.youtube.com/watch?v=sXzm6qhvFKk&feature=youtu.be
