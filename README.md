@@ -6,7 +6,7 @@ If you want me to make more videos. Please support me
 * Subscribe to my Youtube: FreakingDev
 * Donate on my Paypal: http://paypal.me/freakingdev
 
-I'll shoutout those who will donate :D Thanks in advance
+I'll shoutout those who will donate. Thanks in advance :D
 
 # Watch the Tutorial
 
