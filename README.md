@@ -1,4 +1,4 @@
-# BasicGuides
+# BasicGuides - Version: v2
 
 This plugin is used for my video tutorial
 
@@ -6,7 +6,6 @@ If you want me to make more videos. Please support me
 * Subscribe to my Youtube: FreakingDev
 * Donate to my Paypal: http://paypal.me/freakingdev
 
-# Current Version: v2
 
 # Watch This Tutorials
 
