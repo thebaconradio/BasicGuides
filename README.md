@@ -15,4 +15,4 @@ I'll shoutout those who will donate. Thanks in advance :D
 * Part 2 -> https://www.youtube.com/watch?v=utCAuEMfx_4&feature=youtu.be
 
 # v2 - Get Player Name & TextFormat
-* -> https://youtu.be/WI6f6RtFanc
+* -> https://www.youtube.com/watch?v=WI6f6RtFanc
