@@ -12,7 +12,7 @@ If you want me to make more videos. Please support me
 * Part 1 -> https://www.youtube.com/watch?v=sXzm6qhvFKk&feature=youtu.be
 * Part 2 -> https://www.youtube.com/watch?v=utCAuEMfx_4&feature=youtu.be
 
-# v2 - Get Player Name & TextFormat
+# v2 - Get Player Name & Text Format
 * -> https://www.youtube.com/watch?v=WI6f6RtFanc
 
 # v3 - 
