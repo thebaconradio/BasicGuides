@@ -5,6 +5,7 @@ namespace BasicGuides;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
+use pocketmine\utils\TextFormat;
 
 class Main extends PluginBase implements Listener{
 	
@@ -19,6 +20,7 @@ class Main extends PluginBase implements Listener{
 	
 	public function onJoin(PlayerJoinEvent $event){
 		$player = $event->getPlayer();
-		$player->sendMessage("Hello Player");
+		$name = $player->getName();
+		$player->sendMessage(TextFormat::GREEN . "Hello " . TextFormat::BLUE . $name);
 	}
 }
