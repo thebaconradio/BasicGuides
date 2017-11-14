@@ -14,4 +14,5 @@ I'll shoutout those who will donate. Thanks in advance :D
 * Part 1 -> https://www.youtube.com/watch?v=sXzm6qhvFKk&feature=youtu.be
 * Part 2 -> https://www.youtube.com/watch?v=utCAuEMfx_4&feature=youtu.be
 
-# v2
+# v2 - Get Player Name & TextFormat
+* ->
