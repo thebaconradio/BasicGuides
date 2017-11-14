@@ -6,7 +6,6 @@ If you want me to make more videos. Please support me
 * Subscribe to my Youtube: FreakingDev
 * Donate to my Paypal: http://paypal.me/freakingdev
 
-
 # Watch This Tutorials
 
 # v1 - Player Join Event & Sending Message
@@ -15,3 +14,5 @@ If you want me to make more videos. Please support me
 
 # v2 - Get Player Name & TextFormat
 * -> https://www.youtube.com/watch?v=WI6f6RtFanc
+
+# v3 - 
