@@ -15,4 +15,5 @@ If you want me to make more videos. Please support me
 # v2 - Get Player Name & Text Format
 * -> https://www.youtube.com/watch?v=WI6f6RtFanc
 
-# v3 - 
+# v3 - Give Player Item & Item with Custom Name
+* ->
