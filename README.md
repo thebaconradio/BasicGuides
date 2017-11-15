@@ -16,4 +16,4 @@ If you want me to make more videos. Please support me
 * -> https://www.youtube.com/watch?v=WI6f6RtFanc
 
 # v3 - Give Player Item & Item with Custom Name
-* ->
+* -> https://www.youtube.com/watch?v=gpjtU08nX2U
